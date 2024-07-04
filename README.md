@@ -1,3 +1,3 @@
 # odin-recipes
 
-Complete this once project is complete as a means of self-reflection of what I learned and used to complete the project.
+In this project, we used basic html elements and tags to produce a barebones static website of three dishes, and organized the contents with (un)ordered lists depending on the list content semantics. 
